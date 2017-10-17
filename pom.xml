@@ -138,7 +138,7 @@
           <plugin>
             <groupId>io.fabric8</groupId>
             <artifactId>fabric8-maven-plugin</artifactId>
-            <version>3.5.22</version>
+            <version>3.5.28</version>
             <executions>
               <execution>
                 <id>fmp</id>
@@ -160,7 +160,7 @@
           <resources>
             <labels>
               <all>
-                <space>august21</space>
+                <space>Project_Jupiter</space>
               </all>
             </labels>
           </resources>
